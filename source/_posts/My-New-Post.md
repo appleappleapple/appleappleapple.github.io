@@ -4,6 +4,8 @@
   - Chrome/Chromium (Blink)
   - Safari (WebKit)
   - Opera (Blink)
+  - lin (lin)
+  - lin (lin)
 
 - ### 编程语言
   - JavaScript/Node.js
