@@ -9,6 +9,7 @@ description: 林炳文我的博客
 author: lin Bingwen
 language: zh-CN
 timezone:
+disqus_shortname: linbingwen
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
